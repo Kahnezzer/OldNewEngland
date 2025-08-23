@@ -21,7 +21,7 @@ Your Wabbajack modlist for a cozy, lore-rich world.
 1. Download and install [Wabbajack](https://www.wabbajack.org/).  
 2. Download the `.wabbajack` file from the [Nexus page](https://www.nexusmods.com/fallout4/mods/94959).  
 3. Open Wabbajack and select **Install from Disk**, pointing it to the `.wabbajack` file.  
-4. Choose an install location (avoid `Program Files` and OneDrive).  
+4. Choose an install location (avoid Program Files).  
 5. Click **Install** and let it complete.  
 6. Launch the game through **Mod Organizer 2**.  
 

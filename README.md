@@ -55,7 +55,7 @@ These define the feel of the list:
 - **True Damage** — lethal, consistent combat scaling  
 - **ECO / LEO / NEO** — unified weapon and armor framework  
 - **You Are Exceptional** — smarter perk and level systems  
-- **Visual Overhauls** — PRP, ELFX + UIL, HDR tweaks, full LOD generation  
+- **Visual Overhauls** — ELFX + UIL, HDR tweaks, full LOD generation  
 - **Quest Expansions** — America Rising 2, Tales from the Commonwealth  
 
 ---

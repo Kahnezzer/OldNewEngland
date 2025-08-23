@@ -10,8 +10,8 @@ Your Wabbajack modlist for a cozy, lore-rich world.
 ## Requirements
 
 - **Game:** Fallout 4 with all official DLC  
-- **Hardware:** Modern quad-core CPU, GTX 1070 / RX 580 or better, 16 GB RAM minimum  
-- **Storage:** ~160 GB free space on an SSD  
+- **Hardware:** Modern quad-core CPU, At least an 8GB GPU, and 16GB System RAM minimum  
+- **Storage:** ~160GB free space on an SSD  
 - **Accounts Needed:** Nexus Mods (premium strongly recommended for auto-download)  
 
 ---

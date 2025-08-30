@@ -2,12 +2,12 @@
 
 ## Old New England 0.7.1 08/29/25
 
-## Tweaked
+### Tweaked
 - Custom Patches
 - LODs Regenerated  
 - Fixed Cube Maps Regenerated  
 
-## Updated
+### Updated
 - K-9 Tactical Harness REVAMPED  
 - Godrays Performance Fix Redux  
 - Community Fixes Merged  
@@ -16,7 +16,7 @@
 - Simple Everyone's Best Friend  
 - Pepper Shaker and Grahm  
 
-## Added
+### Added
 - CW Bush Knife  
 - Wet  
 - Natural Grasses and Ground Covers  

@@ -1,5 +1,28 @@
 # Changelog
 
+## Old New England 0.7.1 08/29/25
+
+## Tweaked
+- Custom Patches
+- LODs Regenerated  
+- Fixed Cube Maps Regenerated  
+
+## Updated
+- K-9 Tactical Harness REVAMPED  
+- Godrays Performance Fix Redux  
+- Community Fixes Merged  
+- VRP Shared  
+- Fix Cubemaps  
+- Simple Everyone's Best Friend  
+- Pepper Shaker and Grahm  
+
+## Added
+- CW Bush Knife  
+- Wet  
+- Natural Grasses and Ground Covers  
+- Nacx Water Fix  
+
+
 ---
 
 ## Old New England 0.7 08/20/25

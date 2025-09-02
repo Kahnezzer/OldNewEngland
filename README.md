@@ -68,8 +68,6 @@ A: Yes.
 **Q: Can I add my own mods?**  
 A: The list is right at the .ba2 limit so it depends what you add. 
 
-**Q: How do I update?**  
-A: Updates will be announced on Nexus. Re-download the new Wabbajack file and reinstall. *Note: saves may break between versions.*  
 
 ---
 

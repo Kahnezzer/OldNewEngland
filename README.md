@@ -19,12 +19,12 @@ Your Wabbajack modlist for a cozy, lore-rich world.
 ## Installation
 
 1. Download and install [Wabbajack](https://www.wabbajack.org/).  
-2. Download the `.wabbajack` file from the [Nexus page](https://www.nexusmods.com/fallout4/mods/94959).  
-3. Open Wabbajack and select **Install from Disk**, pointing it to the `.wabbajack` file.  
-4. Choose an install location (avoid Program Files).  
-5. Click **Install** and let it complete.  
-6. Launch the game through **Mod Organizer 2**.  
-
+2. Navigate to Fallout 4 and tick **"non-featured'**
+3. Scroll until you see **Old New England** and and click install
+4. Pick an install folder (not inside your Fallout 4 or Steam folders).
+5. Let Wabbajack finish downloading and configuring the list.
+6. Navigate to the install folder and find the tools folder. Run Bethini and set your preferences.
+7. Launch ModOrganizer.exe from the install folder and run Fallout4 through MO2.
 ---
 
 ## First Launch

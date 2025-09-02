@@ -23,7 +23,7 @@ Your Wabbajack modlist for a cozy, lore-rich world.
 3. Scroll until you see **Old New England** and and click install
 4. Pick an install folder (not inside your Fallout 4 or Steam folders).
 5. Let Wabbajack finish downloading and configuring the list.
-6. Navigate to the install folder and find the tools folder. Run Bethini and set your preferences.
+6. Navigate to the install folder and find the tools folder. Run **Bethini** and set your preferences.
 7. Launch ModOrganizer.exe from the install folder and run Fallout4 through MO2.
 ---
 

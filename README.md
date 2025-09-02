@@ -66,7 +66,7 @@ These define the feel of the list:
 A: Yes.  
 
 **Q: Can I add my own mods?**  
-A: The list is right at the .ba2 limit so it depends what you add. 
+A: The list is right at the .ba2 limit so it depends and may cause crashing
 
 
 ---

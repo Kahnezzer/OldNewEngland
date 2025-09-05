@@ -37,8 +37,6 @@
 
 ---
 
-# Changelog
-
 ## Old New England 0.7.1 08/29/25
 
 ### Tweaked

@@ -22,16 +22,16 @@
       "readme": "https://github.com/Kahnezzer/Old-New-England/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Old%20New%20England.wabbajack_118c2d9a-3ff8-4ce8-b1b4-5723b0cbbfab",
       "machineURL": "OldNewEngland",
-      "discordURL": "https://discord.gg/apsmxtfskn"
+      "discordURL": "https://discord.gg/nxnqZyUf55"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Pgf/W6WWHts=",
-      "Size": 537207199,
-      "NumberOfArchives": 885,
-      "SizeOfArchives": 155789896582,
-      "NumberOfInstalledFiles": 36364,
-      "SizeOfInstalledFiles": 171490414283
+      "Hash": "JkxYu2MZ4OQ=",
+      "Size": 485146745,
+      "NumberOfArchives": 910,
+      "SizeOfArchives": 155320055587,
+      "NumberOfInstalledFiles": 40403,
+      "SizeOfInstalledFiles": 171646825937
     },
     "version": "0.7.2"
   }

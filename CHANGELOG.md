@@ -1,10 +1,8 @@
-# Changelog
+## Old New England 0.7.3  08/8/25
 
-## Old New England 0.7.2 08//25  Not Released
 
 ### Updated
 
-- Legendary Loot Expansion
 - Settlement Menu Manager Patches
 - Vanilla Reanimation Project - Pistol
 - Vanilla Reanimation Project - Pipe
@@ -13,7 +11,6 @@
 - Garden of Eden Papyrus Script Extender
 
 ### Added
-
 - HD Moon with Phases
 - Immersive Pip-Boy Radio
 - Boston Riot Armor
@@ -24,7 +21,6 @@
 - Grassphalts Be Gone
 - Legendary Loot Expansion
 - Access Cards to Pass Cards
-- Enhanced Sounds Overhaul
 - Lore-Based Loading Screens
 - Unique Holotapes
 - Support Laser Rifle - AESW3
@@ -34,6 +30,17 @@
 - Apocalyptic Gunslinger
 - Hunter's Knife
 - Navy Auto Pistol
+- We Cook With Fire
+- Settler Built Settlements
+- Immersive Main Menu
+- HD Chems Project Suite
+- Companion Status
+- Luxor's Vehicle SSR
+- Crows and Creatures
+- True Reporter
+- Immersive Underwear
+- Bovine Intervention
+- 12.7mm SMG - Fallout New Vegas
 
 ---
 

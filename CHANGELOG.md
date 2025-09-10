@@ -4,7 +4,9 @@
 - MCM Settings
 - Tweaked the load order of Nacx, Elfx, and Wet
 - Atom Cats Garage - After The Fallout
-- Fixed LODs Not Loading. Had to rename Meshes to Main.
+- Fixed LODs Not Loading. Had to rename "Meshes" to "Main"
+- Removed stock textures and brought the install size down from 174 to 144
+- 
 
 ### Added
 - Detailed Bunkers

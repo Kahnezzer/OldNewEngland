@@ -5,8 +5,8 @@
 - Tweaked the load order of Nacx, Elfx, and Wet
 - Atom Cats Garage - After The Fallout
 - Fixed LODs Not Loading. Had to rename "Meshes" to "Main"
-- Removed stock textures and brought the install size down from 174gb to 144gb
-- 
+- Cleaned up the install size from 172gb to 144gb
+- Cleaned up the Wabbajack install file from 550mb to 77mb
 
 ### Added
 - Detailed Bunkers

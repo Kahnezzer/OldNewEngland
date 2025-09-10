@@ -1,3 +1,37 @@
+## Old New England 0.7.4  09/10/25
+
+### Updated
+- MCM Settings
+- Tweaked the load order of Nacx, Elfx, and Wet
+- Atom Cats Garage - After The Fallout
+- Fixed LODs Not Loading. Had to rename Meshes to Main.
+
+### Added
+- Detailed Bunkers
+- Barrel Bonanza - Fire Barrel Mesh Replacer
+- Fire Sparks Replacer
+- Enhanced Vanilla Ammo Boxes
+- A Radio fit for a King
+- HFs - Toy Trucks - remodel
+- Perk Magazines Specular and Normal Maps
+- Rad Retextures - Paint Buckets
+- Pirate Captain - Unique Raider Armor
+- Hazmat Suit Improved
+- Fallout tv show vault-tec bathrobe
+- Under the Hood- Mechanical Power Armor Audio
+- Lucy's Vault-Tec Backpack
+- Model 37 Shotgun - Ithaca Model 37 V2
+- HFs - Tool chest - redone
+- Reimagined Fonts
+
+
+### Removed
+- Auto Input Switch
+- Targeted Textures - Vanilla textures upscaled fixed and sized
+- Immersive Main Menus - Added 5gb to the download size
+
+---
+
 ## Old New England 0.7.3  08/8/25
 
 

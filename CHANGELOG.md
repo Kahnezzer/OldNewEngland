@@ -1,3 +1,11 @@
+
+## Old New England 0.7.5  09/10/25
+
+### Updated
+- Cleaned up the Wabbajack install file from 550mb to 77mb
+
+---
+
 ## Old New England 0.7.4  09/10/25
 
 ### Updated
@@ -6,7 +14,7 @@
 - Atom Cats Garage - After The Fallout
 - Fixed LODs Not Loading. Had to rename "Meshes" to "Main"
 - Cleaned up the install size from 172gb to 144gb
-- Cleaned up the Wabbajack install file from 550mb to 77mb
+
 
 ### Added
 - Detailed Bunkers

@@ -2,7 +2,14 @@
 ## Old New England 0.7.5  09/10/25
 
 ### Updated
-- Cleaned up the Wabbajack install file from 550mb to 77mb
+- Cleaned up the Wabbajack install file size from 550mb to 102mb
+
+
+### Added
+
+
+### Removed
+- Revolvers of The Wasteland
 
 ---
 

@@ -1,6 +1,6 @@
 ## Old New England 0.7.6  09/17/25
 
-### Over 100 new mods. I missed documenting a lot of them.
+### Over 100 new mods. I missed documenting a lot of them. Removed and tweaked a lot too.
 
 ### Updated
 - Custom Patches

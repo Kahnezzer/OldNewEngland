@@ -3,7 +3,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Old New England",
-    "description": "800 mods packed into an immersive Fallout 4 modlist focused on atmosphere, exploration, and subtle storytelling. Your Wabbajack modlist for a cozy, lore‑rich world.",
+    "description": "900 mods packed into an immersive Fallout 4 modlist focused on atmosphere, exploration, and subtle storytelling. Your Wabbajack modlist for a cozy, lore‑rich world.",
     "author": "Kahnezzer",
     "maintainers": [
       "github/kahnezzer"
@@ -20,19 +20,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Kahnezzer/Images/main/sdfsdf.jpg",
       "readme": "https://github.com/Kahnezzer/Old-New-England/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Old%20New%20England.wabbajack_494a6ee2-3b34-4af0-86d3-063d1bb1f10c",
+      "download": "https://authored-files.wabbajack.org/Old%20New%20England.wabbajack_67545954-f724-49bf-bc89-71a3e1d5ca19",
       "machineURL": "OldNewEngland",
       "discordURL": "https://discord.gg/nxnqZyUf55"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "xyiZZrDE7gE=",
-      "Size": 79815677,
-      "NumberOfArchives": 950,
-      "SizeOfArchives": 142374512885,
-      "NumberOfInstalledFiles": 72628,
-      "SizeOfInstalledFiles": 154849038022
+      "Hash": "RyemcGVQ6CU=",
+      "Size": 119480270,
+      "NumberOfArchives": 1069,
+      "SizeOfArchives": 150500037408,
+      "NumberOfInstalledFiles": 76552,
+      "SizeOfInstalledFiles": 164110608142
     },
-    "version": "0.7.4"
+    "version": "0.7.6"
   }
 ]

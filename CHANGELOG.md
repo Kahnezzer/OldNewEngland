@@ -1,15 +1,47 @@
+## Old New England 0.7.6  09/17/25
+
+### Over 100 new mods. I missed documenting a lot of them.
+
+### Updated
+- Custom Patches
+- Who's The General - Minutemen Quest Cleanup
+- Caliente's Beautiful Bodies Enhancer 
+
+### Added
+- Basic katana Pack
+- AnotherOne CyberOut 77 Katana Animation
+- Police Sidearm
+- Makeshift Nailgun
+- Security SMG - A Unique 10mm Submachinegun
+- Viper-6610 - Innovative 10mm pistol
+- WWW - The Wasteland Wide Warehouse Project - Valve Handgun
+- Frisbee Mine
+- More Truck Trailer Doors
+- Auto-Ordnance Corporation Laser RCW
+- MagNite Flashlight
+- CW Vintage Revolver 
+- That Gun of the Wasteland (.223 Pistol - 556 Pistol - PKD Blaster)
+- T6M Riveter
+- Ranger Rifle - M71 Manhunter
+-  Mobius' Classical Power Fist
+- EMR-1 Pulse Rifle
+- C39 Plasma Pistol
+- Paladin Sword - A Brotherhood of Steel Melee Weapon
+- Des Presents - Consumables Of The Commonwealth
+
+### Removed
+- Revolvers of The Wasteland
+- Wasteland Spears
+- Wasteland Ballistic Fist
+- Classic Melee Pack
+- Modern Swords
+
+---
 
 ## Old New England 0.7.5  09/10/25
 
 ### Updated
 - Cleaned up the Wabbajack install file size from 550mb to 102mb
-
-
-### Added
-
-
-### Removed
-- Revolvers of The Wasteland
 
 ---
 

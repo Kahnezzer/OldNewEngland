@@ -20,23 +20,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Kahnezzer/Images/main/sdfsdf.jpg",
       "readme": "https://github.com/Kahnezzer/OldNewEngland/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Old New England.wabbajack_e588250b-be3a-4e84-bce7-8f55202b82bc",
+      "download": "https://authored-files.wabbajack.org/Old New England.wabbajack_497ecdbb-2549-46b4-91b4-4afdb0daad85",
       "machineURL": "OldNewEngland",
       "discordURL": "https://discord.gg/nxnqZyUf55",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "uslSu63dgp0=",
-      "Size": 119479022,
+      "Hash": "zEh7BiBFp5Q=",
+      "Size": 119480765,
       "NumberOfArchives": 1069,
       "SizeOfArchives": 150500037408,
       "NumberOfInstalledFiles": 76552,
-      "SizeOfInstalledFiles": 164110608517,
-      "TotalSize": 314610645925
+      "SizeOfInstalledFiles": 164110608467,
+      "TotalSize": 314610645875
     },
     "version": "0.7.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-09-17T09:52:54.7808497Z",
+    "dateUpdated": "2025-09-17T09:58:30.9866788Z",
     "repositoryName": ""
   }
 ]

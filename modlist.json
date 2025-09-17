@@ -1,38 +1,42 @@
-
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Old New England",
-    "description": "900 mods packed into an immersive Fallout 4 modlist focused on atmosphere, exploration, and subtle storytelling. Your Wabbajack modlist for a cozy, lore‑rich world.",
+    "description": "900 mods packed into an immersive Fallout 4 modlist focused on atmosphere, exploration, and subtle storytelling. Your Wabbajack modlist for a cozy, lore\u2011rich world.",
     "author": "Kahnezzer",
     "maintainers": [
       "github/Kahnezzer"
     ],
-    "game": "Fallout4",
+    "game": "fallout4",
+    "official": false,
     "tags": [
       "Steam",
       "Total Overhaul"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Kahnezzer/Images/main/sdfsdf.jpg",
       "readme": "https://github.com/Kahnezzer/OldNewEngland/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Old%20New%20England.wabbajack_ba7bcfe4-d6b2-4fcc-b232-ce1099db832a",
+      "download": "https://authored-files.wabbajack.org/Old New England.wabbajack_e588250b-be3a-4e84-bce7-8f55202b82bc",
       "machineURL": "OldNewEngland",
-      "discordURL": "https://discord.gg/nxnqZyUf55"
+      "discordURL": "https://discord.gg/nxnqZyUf55",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "RyemcGVQ6CU=",
-      "Size": 119480270,
+      "Hash": "uslSu63dgp0=",
+      "Size": 119479022,
       "NumberOfArchives": 1069,
       "SizeOfArchives": 150500037408,
       "NumberOfInstalledFiles": 76552,
-      "SizeOfInstalledFiles": 164110608142
+      "SizeOfInstalledFiles": 164110608517,
+      "TotalSize": 314610645925
     },
-    "version": "0.7.6"
+    "version": "0.7.6",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-09-17T09:52:54.7808497Z",
+    "repositoryName": ""
   }
 ]

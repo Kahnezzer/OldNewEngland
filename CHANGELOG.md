@@ -1,3 +1,29 @@
+## Old New England 0.8.2 09/17/25
+
+### Jumped to 8.0
+### Fixed issues with End hash again and incorrect files paths
+
+
+---
+
+## Old New England 0.7.7 09/17/25
+
+### Fixed an Issue with the hash not matching for Enb v5.01
+
+### Updated
+- Vanilla Reanimation Project - Rifle
+- Lights and Switches
+- Vault 117 - A Horror Quest Mod
+- Improved Hostile Factions
+
+### Added
+- HFs - Diverse Coffee Cups
+
+### Removed
+- Halffaces Coffee Cup
+
+---
+
 ## Old New England 0.7.6  09/17/25
 
 ### Over 100 new mods. I missed documenting a lot of them. Removed and tweaked a lot too.

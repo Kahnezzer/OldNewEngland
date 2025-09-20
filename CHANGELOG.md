@@ -24,15 +24,19 @@
 
 ---
 
+
 ## Old New England 0.8.2 Hotfix 09/17/25
 - Fixed Issue with incorrect file path set in MO2, if your main menu isn't showing up thats why
 
+
 ---
+
 
 ## Old New England 0.8.2 09/17/25
 
 ### Jumped to 8.0
 - Fixed issues with Enb meta file again and incorrect files paths set in MO2
+
 
 
 ---

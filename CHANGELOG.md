@@ -1,3 +1,34 @@
+## Old New England 0.8.3 Not Released
+
+### Updated
+- Institute Technology Overhaul Full v2
+- More Diamond City Bounties
+- We Cook With Fire
+
+### Added
+- Root Builder
+- Fallout 3 Style Cursor
+- True damage - Munitions updated updated patch
+- Takahashi's Pot of Noodles
+- Colors To The Clutter
+- Better Bear Traps
+- Fallout London - Plated Leathers
+- Rabbit Renegade Outfit
+- Evil Detective Outfit
+- Adventurer Outfit 
+- Casual Engineer Outfit
+- Wanderer's Vault Suit
+- Clothing and Armor Mods Stripped and Robco'd
+
+### Removed
+
+---
+
+## Old New England 0.8.2  09/17/25
+- Fixed Issue with incorrect file path set in MO2, if your main menu isn't showing up thats why
+
+---
+
 ## Old New England 0.8.2 09/17/25
 
 ### Jumped to 8.0

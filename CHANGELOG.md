@@ -1,4 +1,7 @@
 ## Old New England 0.8.3 Not Released
+### Fixed
+- .22 pistols using .38 ammo
+- Ak Recievers loading for every wweapon
 
 ### Updated
 - Institute Technology Overhaul Full v2

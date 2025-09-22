@@ -1,15 +1,19 @@
-## Old New England 0.8.3 Not Released
-### Fixed
+## Old New England 0.8.3 9/22/2025
+
+### Fixed 
 - .22 pistols using .38 ammo
-- Ak Recievers loading for every weapon
+- Ak Recievers available for every weapon
+- Water icon tags
+- Texture Issues and Lighting
 
 ### Updated
+- MCM settings and tweaked True Damage
 - Institute Technology Overhaul Full v2
 - More Diamond City Bounties
 - We Cook With Fire
+- Improved Faction Series
 
 ### Added
-- Root Builder
 - Fallout 3 Style Cursor
 - True damage - Munitions updated updated patch
 - Takahashi's Pot of Noodles
@@ -24,6 +28,10 @@
 - Clothing and Armor Mods Stripped and Robco'd
 
 ### Removed
+- Enb for Water 2
+- Wet
+- Character Breathing
+- Cambrige Ghoul Horde
 
 ---
 

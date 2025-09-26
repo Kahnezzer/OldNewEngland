@@ -48,10 +48,9 @@ Most options are pre-set, but you may want to tweak:
 
 ## Key Mods
 
-- **True Damage** — lethal, consistent combat  
-- **ECO / LEO / NEO** — unified weapon/armor framework  
-- **You Are Exceptional** — refined perk and leveling  
-- **Visual Suite** — ELFX + Ultra Interior Lighting, HDR fixes, Fresh LODs  
+- **True Damage** — Challenging Combat Without Bullet Sponges  
+- **You Are Exceptional** — Refined Perk and Leveling  
+- **Visual Suite** — Reactor ENB, Nac X, ELFX + Ultra Interior Lighting, HDR fixes, Fresh LODs  
 - **Quest Expansions** — America Rising 2, Tales from the Commonwealth,   
 
 ---

@@ -1,4 +1,23 @@
-## Old New England 0.8.3 9/22/2025
+## Old New England 0.8.4    9/24/25
+
+### Fixed
+- Ghoul Sound Levels?
+- Tweaked Plugin Load Order And Cleaned It Up
+### Updated
+- AKs of the Wasteland
+- Patchworks
+### Added
+- Nacx All in One fixes
+- DiaRifles - SA80 - P90 - Barrett M107 - Mini-14(AC556) - AUG - M16 and more
+- Wasteland Melody's Service Rifle
+- Assault Weapons Pack - A DiaRifles companion pack
+- Makeshift Weapon Pack - Projectile Tweaks
+### Removed
+- Nacx Water Fix
+
+---
+
+## Old New England 0.8.3  9/22/2025
 
 ### Fixed 
 - .22 pistols using .38 ammo
@@ -35,7 +54,7 @@
 
 ---
 
-## Old New England 0.8.2 Hotfix 09/17/25
+## Old New England 0.8.2 Hotfix  09/17/25
 ### Fixed 
 - Issue with incorrect file path set in MO2, if your main menu isn't showing up thats why
 
@@ -52,7 +71,7 @@
 
 ---
 
-## Old New England 0.7.7 09/17/25
+## Old New England 0.7.7  09/17/25
 
 ### Fixed 
 - Issue with the hash not matching for Enb v5.01

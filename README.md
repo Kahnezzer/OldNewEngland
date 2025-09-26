@@ -61,7 +61,7 @@ Most options are pre-set, but you may want to tweak:
 **Do I need all DLC?**  
 Yes. Except the HD Texture Pack
 
-**Does this have Sim Settlements 2?**
+**Does this have Sim Settlements 2?** 
 No.
 
 ---

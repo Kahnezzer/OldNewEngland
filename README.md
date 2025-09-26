@@ -50,7 +50,7 @@ Most options are pre-set, but you may want to tweak:
 
 - **True Damage** — Challenging Combat Without Bullet Sponges  
 - **You Are Exceptional** — Refined Perk and Leveling  
-- **Visual Suite** — Reactor ENB, Nac X, ELFX + Ultra Interior Lighting, HDR fixes, Fresh LODs  
+- **Visual Suite** — Reactor ENB, Nac X, ELFX + Ultra Interior/Exterior Lighting
 - **Quest Expansions** — America Rising 2, Tales from the Commonwealth,   
 
 ---

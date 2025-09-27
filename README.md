@@ -4,6 +4,13 @@
 
 ---
 
+
+## Disclaimer
+**If you alter the list it hinders by ability to problem solve issues you may encounter. Just tell me you did and I'll still try to help**
+
+
+---
+
 ## Requirements
 
 - **Game:** Fresh install of Fallout 4 with DLC (Do not install the HD Texture pack)

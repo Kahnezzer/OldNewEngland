@@ -1,3 +1,65 @@
+## Old New England 0.8.5 Not Released
+
+### Fixed
+### Updated
+- RobCo Patcher - Ragged Thunder
+- That Gun of the Wasteland (.223 Pistol - 556 Pistol - PKD Blaster)
+- Improved Hostile Factions
+- Lights and Switches 
+
+### Added
+- S7 A Skyrim Skill Overhaul
+- S7 Skill System - Vanilla Perk Overhaul
+- Infiltrator - Lockpicking Overhaul
+- Favorites Menu Ex
+- Workshop Framework
+- Engaging Loot of the Commonwealth
+- Flashy(JoeR) - Gun For Hire - Commonwealth Mercenary Jobs
+- CSEP Presents Loaded Bases 2.0 - The Final Chapter
+- CSEP Presents Brothers in Arms Return Of The Outcasts - Mini DLC Sized Quest Mod
+- CSEP Presents Commonwealth Killer - Quest Mod
+- Recruit the Wounded Dog
+-  Project Reality Footsteps FO4 Expansion
+- Lush Ambience - Far Harbor
+- ZP's Feral Sounds
+- Immersive Gunners Plaza
+- Immersive Covenant Compound
+- Immersive Beantown Brewery
+- NPCs Change Clothes
+- First-Person Running with Hands Animations
+- Accessible Bridges
+- Police Shotgun (Remington 870)
+- Makeshift .32 SMG (Handmade Borz SMG)
+- Infiltrator SMG
+- N99 10mm Pistol - F4NV
+- Toasty Fresh's N99 Overhauled
+- F4NV Classic Recharger Weaponry
+- Infantry Battle Rifle (T48 and FN FAL)
+- F4NV Trail Carbine
+- M72 Gauss Rifle
+- Winchester P94
+- YK42B - Pulse Rifle
+- Glock 86 - Plasma Pistol
+- Tanker Pistol and Crusader Pistol
+- The Laser Defender - Interplay Wattz 1000 Laser Pistol
+- The Disruptor Carbine - Tactics Spasm Gun
+- M1928A1 Thompson - Day of Infamy
+- Classic Advanced Power Armor
+- Classic Computers
+- Yellow Cake A Food Overhaul
+- A Bunch of .esl Replacers
+
+### Removed
+- You Are Exceptional and all Patches
+- HFs - Diverse Coffee Cups
+- Wheel Menu
+- Put Ur Gun Away
+- Combined Combat XP
+- Consumables of the CommonWealth
+- Weapon Animations
+
+---
+
 ## Old New England 0.8.4    9/24/25
 
 ### Fixed

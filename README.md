@@ -56,7 +56,7 @@ Most options are pre-set, but you may want to tweak:
 ## Key Mods
 
 - **True Damage** — Challenging Combat Without Bullet Sponges  
-- **You Are Exceptional** — Refined Perk and Leveling  
+- **S7 Skyrim Skill Overhaul** — Refined Perk and Leveling  
 - **Visual Suite** — Reactor ENB, Nac X, ELFX + Ultra Interior/Exterior Lighting
 - **Quest Expansions** — America Rising 2, Tales from the Commonwealth,   
 

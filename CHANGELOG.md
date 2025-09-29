@@ -1,9 +1,13 @@
-## Old New England 0.8.5 Not Released
+## Old New England 0.8.5    9/29/25
 
 ### Fixed
+- 7.62  Damage
+- Crucible Quest and Flamer not Spawning
+- Gunner Leveled Lists
+- Outfit Distribution
 ### Updated
-- RobCo Patcher - Ragged Thunder
-- That Gun of the Wasteland (.223 Pistol - 556 Pistol - PKD Blaster)
+-  Ragged Thunder
+- That Gun of the Wasteland
 - Improved Hostile Factions
 - Lights and Switches 
 
@@ -14,9 +18,9 @@
 - Favorites Menu Ex
 - Workshop Framework
 - Engaging Loot of the Commonwealth
-- Flashy(JoeR) - Gun For Hire - Commonwealth Mercenary Jobs
+- Gun For Hire - Commonwealth Mercenary Jobs
 - CSEP Presents Loaded Bases 2.0 - The Final Chapter
-- CSEP Presents Brothers in Arms Return Of The Outcasts - Mini DLC Sized Quest Mod
+- CSEP Presents Brothers in Arms Return Of The Outcasts
 - CSEP Presents Commonwealth Killer - Quest Mod
 - Recruit the Wounded Dog
 -  Project Reality Footsteps FO4 Expansion
@@ -41,12 +45,14 @@
 - YK42B - Pulse Rifle
 - Glock 86 - Plasma Pistol
 - Tanker Pistol and Crusader Pistol
+- HK G11 K2 - Kraut Space Magic
 - The Laser Defender - Interplay Wattz 1000 Laser Pistol
 - The Disruptor Carbine - Tactics Spasm Gun
 - M1928A1 Thompson - Day of Infamy
 - Classic Advanced Power Armor
-- Classic Computers
 - Yellow Cake A Food Overhaul
+- Colors To The Suitcases
+- Ketaros World
 - A Bunch of .esl Replacers
 
 ### Removed
@@ -57,6 +63,10 @@
 - Combined Combat XP
 - Consumables of the CommonWealth
 - Weapon Animations
+- Reverb and Ambiance Overhaul - Tweaked
+- Legendary Loot Expansion
+- NPCs Change Clothes
+- Blaze
 
 ---
 

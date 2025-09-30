@@ -38,9 +38,11 @@
 1. Create your character and move toward the vault exit.  
 2. Pick up the Pip-Boy. Choose a background or back out to leave it blank.  
 3. Take the elevator up and let the world finish loading.  
-4. Open the **MCM** and load the **Old New England Preset**.  
-5. Adjust personal settings as needed.  
-6. Play.  
+4. Open mod configurtaion and in **MCM Settings Manager** load the **Old New England Preset**.  
+5. Choose "Remove NW's Grenade Rules". 
+6. Adjust personal settings as needed.
+7. Save game and then load save to finalize changes.  
+8. Play.  
 
 ---
 

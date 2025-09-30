@@ -56,10 +56,11 @@ Most options are pre-set, but you may want to tweak:
 ## Key Mods
 
 - **True Damage** — Challenging Combat Without Bullet Sponges  
-- **S7 Skyrim Skill Overhaul** — Refined Perk and Leveling  
+- **S7 Skyrim Skill Overhaul** — Refined Perk and Leveling
+- **Karma & Challenges** - The same systems known from past Fallout games
 - **Visual Suite** — Reactor ENB, Nac X, ELFX + Ultra Interior/Exterior Lighting
-- **Quest Expansions** — America Rising 2, Tales from the Commonwealth,   
-
+- **Quest Expansions** — America Rising 2, Tales from the Commonwealth, CSEP Presents Loaded Bases, CSEP Presents Brothers in Arms Return Of The Outcasts, Nuka-World Reborn Trilogy, and more....
+- **Dungeons** - Vault 117, Nordic Europa Research facility, Polaria Systems, and more...
 ---
 
 ## FAQ

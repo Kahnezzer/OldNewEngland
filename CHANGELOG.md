@@ -2,7 +2,7 @@
 
 ### Fixed 
 - Disabled the firestorm stuff in Nacx.
-- Updated Wasteland Brats patch and Dia Rifles(Some rifles were missing Tactical Reload keywords)
+- Updated Wasteland Brats patch and Dia Rifles(Some rifles were missing Tactical Reload keyword)
 - Tweaked load order. Moved Yellow Cake Food Overhaul out of patches and into Gameplay.
 
 ---

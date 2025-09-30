@@ -6,7 +6,7 @@
 - Gunner Leveled Lists
 - Outfit Distribution
 ### Updated
--  Ragged Thunder
+- Ragged Thunder
 - That Gun of the Wasteland
 - Improved Hostile Factions
 - Lights and Switches 
@@ -23,7 +23,7 @@
 - CSEP Presents Brothers in Arms Return Of The Outcasts
 - CSEP Presents Commonwealth Killer - Quest Mod
 - Recruit the Wounded Dog
--  Project Reality Footsteps FO4 Expansion
+- Project Reality Footsteps FO4 Expansion
 - Lush Ambience - Far Harbor
 - ZP's Feral Sounds
 - Immersive Gunners Plaza
@@ -65,7 +65,6 @@
 - Weapon Animations
 - Reverb and Ambiance Overhaul - Tweaked
 - Legendary Loot Expansion
-- NPCs Change Clothes
 - Blaze
 
 ---

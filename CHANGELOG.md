@@ -63,7 +63,6 @@
 - Combined Combat XP
 - Consumables of the CommonWealth
 - Weapon Animations
-- Reverb and Ambiance Overhaul - Tweaked
 - Legendary Loot Expansion
 - Blaze
 

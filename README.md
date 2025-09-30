@@ -1,6 +1,6 @@
 # Old New England
 
-**900 mods**, built into an immersive Fallout 4 modlist centered on atmosphere, exploration, and subtle storytelling in a lore-rich world.  
+**Almost 1000 mods**, built into an immersive Fallout 4 modlist centered on atmosphere, exploration, and subtle storytelling in a lore-rich world.  
 
 ---
 

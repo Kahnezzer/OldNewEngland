@@ -1,3 +1,21 @@
+## Old New England 0.8.7   10/1/25   SAVE SAFE
+
+### Fixed
+### Updated
+- Colors To The Suitcases
+### Added
+- RealHD Face 2K
+- Discrete Female Skeleton (DFS)
+- Azar's Ponytail Hairstyles - Remade Textures 
+- Bobblehead Stand Fix - Faction Housing Overhaul - AIO
+- Improved Legendary Drops
+- S7 Skill System - True Damage Perk Patch
+- Munitions - Vanilla Ammo Addon
+- cVc Dead Wasteland
+### Removed
+
+---
+
 ## Old New England 0.8.6   9/29/25
 
 ### Fixed 

@@ -1,3 +1,42 @@
+## Old New England 0.8.8   10/4/25 
+
+### Fixed
+- LOD Generation, I switched back to DoubleYou's guide
+### Updated
+- S7 Skyrim Skill Overhaul
+- Interior Fog Rework (ELFX Add-On)
+- DiaRifles
+- Dried Blood
+- The Shack
+### Added
+- PerkPointsPerLevel
+- PIP-Pad
+- A Bundle of Tape - A weapons pack
+- Jurttu's Interiors
+- Jurttu's Interiors - Nuka-World
+- Vanilla Locations Plus
+- Diamond City Interiors Expanded
+- Swan's Pond After Swan
+- Better Spotlights
+- RobCo - Smarter Dismemember and Explode
+- Tactical Reload Patch Repository - Robco Patcher Edition
+- Merged RootBehavior
+- Dak's Assault Rifle Replacer REDUX
+- Sensible Rifle Tweaks and Additions
+- Rsiyo's Location Pack
+- Concord Resurrected - No Longer A Ghost Town
+- Another Sanctuary Bridge
+- Hangman's Alley Interior Apartments
+- Witchs CAT and BRAHMIN animation overhaul
+- Shiny Statues
+### Removed
+- Project Arroyo - Pip-Boy 2000
+- Diamond City Merchant Residences
+- More DC Bounties
+- Atomic World and it's patches
+
+---
+
 ## Old New England 0.8.7   10/1/25   SAVE SAFE
 
 ### Fixed

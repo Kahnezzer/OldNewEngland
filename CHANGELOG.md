@@ -1,4 +1,4 @@
-## Old New England 0.8.8   10/4/25 
+## Old New England 0.8.8   10/4/25 NOT SAVE SAFE
 
 ### Fixed
 - LOD Generation, I switched back to DoubleYou's guide

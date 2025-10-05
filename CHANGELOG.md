@@ -2,6 +2,7 @@
 
 ### Fixed
 - LOD Generation, I switched back to DoubleYou's guide
+- Increased Night Time Brightness
 ### Updated
 - S7 Skyrim Skill Overhaul
 - Interior Fog Rework (ELFX Add-On)

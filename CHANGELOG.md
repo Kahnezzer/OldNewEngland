@@ -1,3 +1,37 @@
+## Old New England 0.8.9   10//25 Not Released
+Mods are being removed to make room for better ones or they were redundant.
+### Fixed
+PerkPointsPerLevel - A file needed to be renamed
+### Updated
+- Improved Hostile Factions
+- Improved Minutemen
+- Who's The General - Minutemen Quest Cleanup
+- Community Fixes Merged
+- Colors To The Clutter - BOS
+### Added
+- Sidearms of the Wasteland (Classic 10mm - Wattz 1000 - Glock 86 - 45 pistol (1911) - 9mm pistol (Hi Power) - Beretta 92)
+- Minutemen Militia Outfit Pack
+- Jurttu's Interiors - Far Harbor
+- Service Rifle
+### Removed
+- N99 Pistol
+- Glock 86
+- Unique Holotapes
+- Neo
+- SBS - PerfektMind's Sanctuary
+- Pipe Gun Improvements
+- Submachine Gun Improvements
+- Ez Level Scaling
+- Attachment Pack Unofficial Expanion Refinement
+- Quantum Creatures
+- Melody Service Rifle
+- Dia Rifle Companion Pack
+- West Tek Combat Rifle and Uradium Rifle
+- The Assault Pistol
+- Aks of the Wasteland
+
+---
+
 ## Old New England 0.8.8   10/4/25 NOT SAVE SAFE
 
 ### Fixed

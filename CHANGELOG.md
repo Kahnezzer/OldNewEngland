@@ -1,4 +1,4 @@
-## Old New England 0.8.9   10//25 Not Released
+## Old New England 0.8.9   10//25 Not Released and Not Save Safe
 Mods are being removed to make room for better ones or they were redundant.
 ### Fixed
 PerkPointsPerLevel - A file needed to be renamed
@@ -9,11 +9,22 @@ PerkPointsPerLevel - A file needed to be renamed
 - Community Fixes Merged
 - Colors To The Clutter - BOS
 ### Added
+- Mutant Menagerie - Life Finds A Way
+- Mutant Menagerie Crops Expanded
+- Very Zen Mutant Menagerie
+- Super Mutant Redux AWKCR-Free Lite
+- Nightkin small explosion
+- Diamond City Guards REDUX
+- Fort Strong Redux
+- XV-Versus and Yagisan's Fort Strong Settlement
+- Enclave Settlers Spawn at Fort Strong
+- Pip-Boy W.S.
 - Sidearms of the Wasteland (Classic 10mm - Wattz 1000 - Glock 86 - 45 pistol (1911) - 9mm pistol (Hi Power) - Beretta 92)
 - Minutemen Militia Outfit Pack
 - Jurttu's Interiors - Far Harbor
 - Service Rifle
 ### Removed
+- Pip-Pad
 - N99 Pistol
 - Glock 86
 - Unique Holotapes
@@ -29,6 +40,10 @@ PerkPointsPerLevel - A file needed to be renamed
 - West Tek Combat Rifle and Uradium Rifle
 - The Assault Pistol
 - Aks of the Wasteland
+- Rifles Rebirth
+- Anti-Materiel Rifle - Rat Runners Arsenal
+- Combat Rifle Attachment And Weaponry Expansion -  Rat Runners Arsenal
+- Show No Mercy Fort Strong
 
 ---
 

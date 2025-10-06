@@ -1,4 +1,4 @@
-## Old New England 0.8.9   10//25 Not Released and Not Save Safe
+## Old New England 0.8.9   10/6/25 Not Released and Not Save Safe
 Mods are being removed to make room for better ones or they were redundant.
 ### Fixed
 PerkPointsPerLevel - A file needed to be renamed
@@ -19,10 +19,15 @@ PerkPointsPerLevel - A file needed to be renamed
 - XV-Versus and Yagisan's Fort Strong Settlement
 - Enclave Settlers Spawn at Fort Strong
 - Pip-Boy W.S.
+- Diving Power Armor
+- Diving PA - Metal Paints And Coiled Legs
 - Sidearms of the Wasteland (Classic 10mm - Wattz 1000 - Glock 86 - 45 pistol (1911) - 9mm pistol (Hi Power) - Beretta 92)
 - Minutemen Militia Outfit Pack
 - Jurttu's Interiors - Far Harbor
+- Sanctuary - Reworked Roads
 - Service Rifle
+- Caravan Guards Open Carry
+- Silent Protagonist F4SE - Optional
 ### Removed
 - Pip-Pad
 - N99 Pistol
@@ -34,6 +39,7 @@ PerkPointsPerLevel - A file needed to be renamed
 - Submachine Gun Improvements
 - Ez Level Scaling
 - Attachment Pack Unofficial Expanion Refinement
+- FGEP
 - Quantum Creatures
 - Melody Service Rifle
 - Dia Rifle Companion Pack
@@ -44,6 +50,7 @@ PerkPointsPerLevel - A file needed to be renamed
 - Anti-Materiel Rifle - Rat Runners Arsenal
 - Combat Rifle Attachment And Weaponry Expansion -  Rat Runners Arsenal
 - Show No Mercy Fort Strong
+- Caravan Carriers
 
 ---
 

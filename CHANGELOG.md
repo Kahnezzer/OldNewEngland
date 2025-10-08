@@ -1,3 +1,50 @@
+
+## Old New England 0.9.1  10/8/25   Save Safe
+
+### Fixed
+- Issue with skeleton replacer causing crashes
+- Missing tags on tea and water
+- Naked Super Mutants?
+- Grass flickering on the edge of sanctuary bridge
+---
+
+## Old New England 0.9.0  10/8/25  Not Save Safe
+
+###Fixed
+- Reworked the whole list and plugin load order
+- S7 Skill system overwriting the Pip-boy Replacer
+### Updated
+- Map Marker Overhaul  Unmarked Locations Fast Travel  Exploration
+- PBR Materials Project
+### Added
+- Fireflies
+- Ultimate Colored Vault Boy Animations Overhaul
+-  Classic Holstered Weapons - Additional Skeleton Support
+- Service Rifle - Unofficial Update
+- HFs - Suitcase Diverse BOS - remodel
+- T6M's Anti-Air Launcher (Fliegerfaust and Such)
+- Dak's Shoulder Mounted Machinegun (M2)
+- Pip-Boy W.S. Vault 111 Rusty Appearance
+- Retro Aesthetics Institute Overhaul
+- RobCo - True Damage - Damage fix with Munitions support
+- Post-apocalyptic homemade weapons
+- Mutant Menagerie - Magazine Retexture - Bestiary - Cook Book - Farming Guide
+- Better Settlements and Camps 2
+- Swinging Meat Bags
+- CC Tesla Cannon Upgrade - Now with reload animations
+- M590 Pump Shotgun - Mossberg 590
+- Alex's Copperhead Assault Platform
+- Fallout 3 10mm SMG
+- The 10mm SMG Redux
+- Automatron Sentry Bot Cowl Fix
+- Tumbajamba's Caravan Security Armor
+- Tumbajamba's Bountyhunter Armor
+- Diving Power Armor
+### Removed
+- PRP Patches
+
+---
+
 ## Old New England 0.8.9   10/6/25 Not Released and Not Save Safe
 Mods are being removed to make room for better ones or they were redundant.
 ### Fixed

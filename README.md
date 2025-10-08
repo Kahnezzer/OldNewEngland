@@ -74,6 +74,8 @@ Yes. Except the HD Texture Pack
 **Does this have Sim Settlements 2?**  
 No.
 
+**Can I donate to you?**
+Yes [Ko-Fi](https://ko-fi.com/kahnezzer)
 ---
 
 ## Changelog

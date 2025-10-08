@@ -75,7 +75,9 @@ Yes. Except the HD Texture Pack
 No.
 
 **Can I donate to you?**
+
 Yes [Ko-Fi](https://ko-fi.com/kahnezzer)
+
 ---
 
 ## Changelog

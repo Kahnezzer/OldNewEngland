@@ -15,7 +15,7 @@
 
 - **Game:** Fresh install of Fallout 4 with DLC & CC Content(Do not install the HD Texture pack)
 - **Hardware:** Quad-core CPU, 8GB+ GPU, 16GB RAM minimum
-- **Software:** [Visual C++ Redistributable Runtimes All-in-One]([https://aka.ms/vs/17/release/vc_redist.x64.exe](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/))
+- **Software:** [Visual C++ Redistributable Runtimes All-in-One]([https://aka.ms/vs/17/release/vc_redist.x64.exe](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 - **Storage:** 270GB free space on SSD (install + downloads). After install, the downloads folder can be deleted, reducing footprint to 160GB.
 - **PC Settings:** Language English 
 - **Accounts:** Nexus Mods (premium strongly recommended for automated download)  

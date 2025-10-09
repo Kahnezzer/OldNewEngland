@@ -27,7 +27,7 @@
 1. Download and install Wabbajack 
 2. Select Fallout 4 and tick **Non-Featured**.  
 3. Scroll to **Old New England** and click **Install**.  
-4. Choose an install location (not inside Fallout 4 or Steam folders).  
+4. Choose an install location (not inside Windows Program or Steam folders). 
 5. Let Wabbajack download and configure everything.  
 6. Inside the install folder, open the **Tools** folder, run **Bethini**, and set your preferences.  
 7. Launch **ModOrganizer.exe** from the install folder and start Fallout 4 through MO2.  

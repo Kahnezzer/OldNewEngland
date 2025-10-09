@@ -11,12 +11,13 @@
 
 ---
 
-## Requirements
+## Requirements & Pre-Installation
 
 - **Game:** Fresh install of Fallout 4 with DLC & CC Content(Do not install the HD Texture pack)
 - **Hardware:** Quad-core CPU, 8GB+ GPU, 16GB RAM minimum
 - **Software:** [Microsoft Visual Studio 2015, 2017, 2019, and 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- **Storage:** 270GB free space on SSD (install + downloads). After install, the downloads folder can be deleted, reducing footprint to 160GB.  
+- **Storage:** 270GB free space on SSD (install + downloads). After install, the downloads folder can be deleted, reducing footprint to 160GB.
+- **PC Settings:** Language English, 
 - **Accounts:** Nexus Mods (premium strongly recommended for automated download)  
 
 ---

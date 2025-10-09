@@ -13,7 +13,7 @@
 
 ## Requirements
 
-- **Game:** Fresh install of Fallout 4 with DLC (Do not install the HD Texture pack)
+- **Game:** Fresh install of Fallout 4 with DLC & CC Content(Do not install the HD Texture pack)
 - **Hardware:** Quad-core CPU, 8GB+ GPU, 16GB RAM minimum
 - **Software:** [Microsoft Visual Studio 2015, 2017, 2019, and 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - **Storage:** 270GB free space on SSD (install + downloads). After install, the downloads folder can be deleted, reducing footprint to 160GB.  
@@ -35,10 +35,10 @@
 
 ## First Launch
 
-1. Create your character and move toward the vault exit.  
-2. Pick up the Pip-Boy. Choose a background or back out to leave it blank.  
-3. Take the elevator up and let the world finish loading.  
-4. Open mod configurtaion and in **MCM Settings Manager** load the **Old New England Preset**.  
+1. Create your character and leave the cryo-chamber 
+2. Pick you Skills and Traits. I reccomend choosing custom instead of deafult, it allows you more control over leveling and starting stats.
+3. Head towards the vault exit while things load. After riding elevator up pic your Gun Fore Hire settings and let the quests finish loading.
+4. Open mod configurtaion menu and in **MCM Settings Manager** load the **Old New England Preset**.  
 5. Choose **Remove NW's Grenade Rules**. 
 6. Adjust personal settings as needed.
 7. Save game and then load save to finalize changes.  
@@ -51,7 +51,9 @@
 Most options are pre-set, but you may want to tweak:  
 
 - **True Damage** — adjust combat damage if it feels too harsh  
-- **Survival Options** — toggle needs mechanics and how often they need to be satisfied 
+- **Survival Options** — toggle needs mechanics and how often they need to be satisfied
+- **Volume Sliders** - Adjust sound levels
+- **Custom Camrea** - Adjust angle and distance
 
 ---
 
@@ -74,9 +76,9 @@ Yes. Except the HD Texture Pack
 **Does this have Sim Settlements 2?**  
 No.
 
-**Can I donate to you?**
+**Can I show you my appreciation?**
 
-Yes [Ko-Fi](https://ko-fi.com/kahnezzer)
+Yes, thank you   [Ko-Fi](https://ko-fi.com/kahnezzer)
 
 ---
 

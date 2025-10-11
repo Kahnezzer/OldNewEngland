@@ -1,3 +1,35 @@
+## Old New England 0.9.3 10//25  NOT RELEASED Not Save Safe
+
+### Fixed
+### Updated
+### Added
+- Survivor's Stash - Balanced and Lore-Friendly Starting Gear
+- The Mobile Mechanic - Portable Workbenches and Junk Scrapping
+- HD HAM Radio
+- Craftable Display Shelves
+- Dak's Weapon Icon Expanded
+- Super Mutant Redux
+- Melee Sneak Locomotion Animation Blending Fix
+- Integrated Addons
+- Holotape Visual Improvement
+- Machine Kit HD Redux
+- The Kuro Tab
+- Woody's Wasteland Stuff
+- Thematic and Practical - Workshop Settlements - Structures and Furnitures 
+### Removed
+- Real Interiors - Persistent Weather
+- Cross Bows of the Commonwealth
+
+---
+
+## Old New England 0.9.2  10/9/25  Not Save Safe
+
+### Fixed
+- Complex Sorter Icons
+### Removed
+- PRP Patches
+
+---
 
 ## Old New England 0.9.1  10/8/25   Save Safe
 

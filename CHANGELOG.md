@@ -12,14 +12,14 @@
 - Improper Tagging in M8r Sorter Files
 - Not Recieving Perk Points - Still Needs Testing
 
-### Updated
+### 🔄-𝙐𝙥𝙙𝙖𝙩𝙚𝙙-🔄
 - The 10mm SMG Redux
 - Improved Hostile Factions
 - The Minutemen Outfit Pack (Militia)
 - Robot Behavior Animation Tweaks
 - Dried Blood
 - Community Fixes Merged
-### Added
+### ✅-𝘼𝙙𝙙𝙚𝙙-✅
 - Unique NPCs - LITE
 - Survivor's Stash - Balanced and Lore-Friendly Starting Gear
 - The Mobile Mechanic - Portable Workbenches and Junk Scrapping
@@ -46,7 +46,7 @@
 - Vault Tec in Concord
 - Hunkered Down - Commonwealth Overhaul
 - Red Rocket BRE
-### Removed
+### ⛔-𝙍𝙚𝙢𝙤𝙫𝙚𝙙-⛔
 - Real Interiors - Persistent Weather
 - Cross Bows of the Commonwealth
 - Dia Rifles

@@ -1,8 +1,23 @@
 ## Old New England 0.9.3 10//25  NOT RELEASED Not Save Safe
 
 ### Fixed
+- Crashes After Saving, Loading, and Dying
+- MCM Menu Crashes
+- Mutant Menegaria Crashes
+- Heavy Gunner Area Crashes
+- Corvega Crashes
+- Naked and Black Face Super Mutants
+- PRP Compatibility Issues
+- Pipe Weapons Still Showing The Vamilla Model
+- Improper Tagging in M8r Sorter Files
+
 ### Updated
+- Improved Hostile Factions
+- The Minutemen Outfit Pack (Militia)
+- Robot Behavior Animation Tweaks
+- Dried Blood
 ### Added
+- Unique NPCs - LITE
 - Survivor's Stash - Balanced and Lore-Friendly Starting Gear
 - The Mobile Mechanic - Portable Workbenches and Junk Scrapping
 - HD HAM Radio
@@ -15,10 +30,15 @@
 - Machine Kit HD Redux
 - The Kuro Tab
 - Woody's Wasteland Stuff
-- Thematic and Practical - Workshop Settlements - Structures and Furnitures 
+- Thematic and Practical - Workshop Settlements - Structures and Furnitures
+- Complex Sorter Quest Mods Tagging
+- Capital Wasteland Minigun
 ### Removed
 - Real Interiors - Persistent Weather
 - Cross Bows of the Commonwealth
+- Dia Rifles
+- Creation Club Content
+
 
 ---
 

@@ -14,7 +14,7 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
@@ -39,4 +39,5 @@
     "dateUpdated": "2025-10-10T02:47:48.1103164Z",
     "repositoryName": ""
   }
+
 ]

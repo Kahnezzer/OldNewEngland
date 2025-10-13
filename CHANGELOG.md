@@ -1,6 +1,6 @@
 ## Old New England 0.9.3 10/13/25  Not Save Safe
 
-### Fixed
+### 🛠️-𝙁𝙞𝙭𝙚𝙙-🛠️
 - Crashes After Saving, Loading, and Dying
 - MCM Menu Crashes
 - Mutant Menegaria Crashes

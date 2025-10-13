@@ -13,7 +13,7 @@
 
 ## Requirements & Pre-Installation
 
-- **Game:** Fresh install of Fallout 4 with DLC & CC Content(Do not install the HD Texture pack)
+- **Game:** Fresh install of Fallout 4 with DLC (Do not install the HD Texture pack)
 - **Hardware:** Quad-core CPU, 8GB+ GPU, 16GB RAM minimum
 - **Software:** [Visual C++ Redistributable Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one)
 - **Storage:** 270GB free space on SSD (install + downloads). After install, the downloads folder can be deleted, reducing footprint to 160GB.

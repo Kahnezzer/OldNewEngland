@@ -10,12 +10,15 @@
 - PRP Compatibility Issues
 - Pipe Weapons Still Showing The Vamilla Model
 - Improper Tagging in M8r Sorter Files
+- Not Recieving Perk Points - Still Needs Testing
 
 ### Updated
+- The 10mm SMG Redux
 - Improved Hostile Factions
 - The Minutemen Outfit Pack (Militia)
 - Robot Behavior Animation Tweaks
 - Dried Blood
+- Community Fixes Merged
 ### Added
 - Unique NPCs - LITE
 - Survivor's Stash - Balanced and Lore-Friendly Starting Gear
@@ -33,6 +36,16 @@
 - Thematic and Practical - Workshop Settlements - Structures and Furnitures
 - Complex Sorter Quest Mods Tagging
 - Capital Wasteland Minigun
+- Integrated Addons
+- Mutant Menagerie - Magazine Retexture (Bestiary - Cook Book - Farming Guide)
+- T6M's 4-Gauge Shotgun
+- The Marine Shotgun - Prototype SW Burst Shotgun
+- Mobile Sentry Bot
+- Army Bunker player home and settlement
+- The Way Home 1 - Concord Hideout
+- Vault Tec in Concord
+- Hunkered Down - Commonwealth Overhaul
+- Red Rocket BRE
 ### Removed
 - Real Interiors - Persistent Weather
 - Cross Bows of the Commonwealth

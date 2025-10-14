@@ -36,7 +36,6 @@
 - Thematic and Practical - Workshop Settlements - Structures and Furnitures
 - Complex Sorter Quest Mods Tagging
 - Capital Wasteland Minigun
-- Integrated Addons
 - Mutant Menagerie - Magazine Retexture (Bestiary - Cook Book - Farming Guide)
 - T6M's 4-Gauge Shotgun
 - The Marine Shotgun - Prototype SW Burst Shotgun

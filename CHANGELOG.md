@@ -8,7 +8,7 @@
 - Corvega Crashes
 - Naked and Black Face Super Mutants
 - PRP Compatibility Issues
-- Pipe Weapons Still Showing The Vamilla Model
+- Pipe Weapons Still Showing The Vanilla Model
 - Improper Tagging in M8r Sorter Files
 - Not Recieving Perk Points - Still Needs Testing
 

@@ -1,4 +1,117 @@
+## Old New England 0.9.4 10/17/25  Not Save Safe
 
+🛠️-𝙁𝙞𝙭𝙚𝙙-🛠️
+- Turned Buffout's Memory Allocator Back On
+- Tweak S7 So Weapon Scrapping Doesn't Give As Much XP
+- Removed .38 Receivers From AKs
+- Tweaked FPS Cap From 144 to 120
+
+🔄-𝙐𝙥𝙙𝙖𝙩𝙚𝙙-🔄
+- S7 Skill System - A Skyrim Style Leveling Overhaul
+- LevelUpMenuEx - Extended
+- T6M's Anti-Air Launcher (Fliegerfaust and Such)
+- Marine Shotgun
+- T6M's 4-Gauge Shotgun
+- Improved Nuka Raiders
+- Improved Railroad
+- Jurttu's Interiors - Nuka-World
+
+✅-𝘼𝙙𝙙𝙚𝙙-✅
+- Lucy's Vault-Tec Compatibility Patch
+- M60 - M60E3 FO4
+- Vanilla Apparel Remesh Project
+- CROSS_VertibirdFlightsuit
+- Wasteland Melody's Service Rifle
+- Assault Weapons Pack - A DiaRifles companion pack
+- The Bludgeoner
+- AKs of the Wasteland
+- Revolvers of the Wasteland
+- Glock Party Pack
+- T6M-Spadey's Unreal Rocket Launcher
+- M1 Garand - A WWII Classic
+- Lore Friendly 5.56 Collection
+- Mind Games - Handmade Laser Rifle
+- Simply Swinging Meatbags
+- Bowie Knife
+- DKS-501 Sniper Rifle
+- K-02 and Universelle Pistol
+- MK14 EBR
+- Heckler und Koch - MP5 Complex
+- Heckler und Koch - UMP
+- HK G3 - Battle rifle
+- HK G3 Battle Rifle Expansion and R91 Project
+- Tin Can Variations - BOS
+- String Lights
+- Snappable Clutter and Display
+- Scrappy Turrets
+- Scrappy Turrets Replacer
+- Assault LMG
+- Assault LMG Darker Retexture (Ten's Edit)
+- The Laser Garand - a Post War Battle Rifle
+- Laser Musket Replacer - Laser Garand
+- Alice Grinder Minigun Redux
+- Anti-Materiel Rifle - Rat Runners Arsenal 
+- Capital Wasteland Gauss Rifle
+- Hunting Revolver and Ranger Sequoia
+- Boston Public Library Settlement
+- SPARS - Simple Power Armor Reduction System
+- Legendaries They Can Use
+- Boss Chests Contain Legendaries
+- Blue Bayou Radio - A Fallout New Orleans Radio
+- Existence 2.0 Radio Station
+- Valentine Agency Cleanup
+- Hangmans Alley Optimized
+- VHF Repeater. Realistic Ham Radio
+- N99 10mm Pistol - F4NV
+- The 10mm Pistol (F4NV 10mm Pistol Redux)
+- Vats Activation Cost
+- Window Materials SSR
+- Grounded Loot
+- Greater Mass Blood Clinic Settlement
+- Emirals Gibson Point Pier Settlement
+- Cambridge Brotherhood Playerhome
+- Diamond City Homeplate Renewed and Expanded
+- Starlight Drive In Cellar
+- Log Fences
+- Look At Me - Railroad Edition
+- TheKite's Handmaiden
+- Settlement Menu Manager
+- Workshop Bits and Bobs
+- 10 Male Presets
+
+⛔-𝙍𝙚𝙢𝙤𝙫𝙚𝙙-⛔
+-  Workshop Framework
+-  Animated Meatbags
+- Project Mohave Outfit Pack
+- Police Pistol for Nicky
+- 12.7mm SSMG
+- ECO
+- LEO
+- Vintage Revolver
+- Attachment Pack
+- Pig's Wasteland Weaponry
+- Wasteland Weaponry - Raider's Armaments
+- Varmint Revolver
+- Another Another Millenia Pack
+- 12.7mm Pistol(New Vegas)
+- Vault Security SMG
+- Grease Gun
+- Infiltrator SMG
+- Workshop Framework
+- A bundle of Tape
+- Service Rifle
+- European Sniper Rifle
+- Compact Surplus Pistol
+- Rangemaster
+- Nordic Europa
+- Marine Anti-Materiel Rifle
+- Hangman Alley Apartments
+- Ultimate Window Overhaul
+- Engaging Loot of the Commonwealth
+- Red Rocket BRE
+- Settler Built Settlements
+- Preston's Beard - Caused Crashing
+- Heather Casdin Replacer
 
 ---
 

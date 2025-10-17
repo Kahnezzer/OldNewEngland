@@ -83,7 +83,7 @@
 -  Animated Meatbags
 - Project Mohave Outfit Pack
 - Police Pistol for Nicky
-- 12.7mm SSMG
+- 12.7mm SMG
 - ECO
 - LEO
 - Vintage Revolver

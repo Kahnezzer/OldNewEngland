@@ -1,7 +1,6 @@
 ## Old New England 0.9.4 10/17/25  Not Save Safe
 
 🛠️-𝙁𝙞𝙭𝙚𝙙-🛠️
-- Turned Buffout's Memory Allocator Back On
 - Tweak S7 So Weapon Scrapping Doesn't Give As Much XP
 - Removed .38 Receivers From AKs
 - Tweaked FPS Cap From 144 to 120

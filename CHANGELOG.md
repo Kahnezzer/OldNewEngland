@@ -95,7 +95,6 @@
 - Vault Security SMG
 - Grease Gun
 - Infiltrator SMG
-- Workshop Framework
 - A bundle of Tape
 - Service Rifle
 - European Sniper Rifle

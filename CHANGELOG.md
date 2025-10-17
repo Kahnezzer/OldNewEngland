@@ -87,7 +87,6 @@
 - ECO
 - LEO
 - Vintage Revolver
-- Attachment Pack
 - Pig's Wasteland Weaponry
 - Wasteland Weaponry - Raider's Armaments
 - Varmint Revolver

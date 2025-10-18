@@ -55,7 +55,6 @@
 - Boston Public Library Settlement
 - SPARS - Simple Power Armor Reduction System
 - Legendaries They Can Use
-- Boss Chests Contain Legendaries
 - Blue Bayou Radio - A Fallout New Orleans Radio
 - Existence 2.0 Radio Station
 - Valentine Agency Cleanup

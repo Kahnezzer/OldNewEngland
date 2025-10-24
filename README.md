@@ -59,7 +59,7 @@ Old New England is a modlist built for the players, not the creator. With over 1
 Most options are pre-set, but you may want to tweak these:
 
 - **True Damage** — scale combat damage if fights feel too harsh or too easy.  
-- **Survival Options** — toggle needs mechanics and how frequently they apply.  
+- **Survival Options** — toggle needs mechanics and how frequently need to be satisfied.  
 - **Volume Sliders** — balance sound levels to taste.  
 - **Custom Camera** — tweak angle and distance for preferred view.
 

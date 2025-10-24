@@ -1,6 +1,6 @@
 # Old New England
 
-**1000 mods**, built into an immersive Fallout 4 modlist centered on atmosphere, exploration, and subtle storytelling in a lore-rich world.  
+Old New England is a modlist built for the players, not the creator. With over 1,000 mods, it’s grounded in organization and stability. It’s Fallout 4 with smarter systems, better encounters, and a world that truly feels alive. Every area has been improved and expanded, but without the unnecessary bloat. Ultimately, it’s about bringing the Commonwealth to life in a way that feels fresh.
 
 ---
 

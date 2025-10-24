@@ -6,7 +6,7 @@ Old New England is a modlist built for the players, not the creator. With over 1
 
 
 ## Disclaimer
-**If you alter the list it hinders by ability to problem solve issues you may encounter. Just tell me you did and I'll still try to help**
+**If you alter the list it hinders by ability to problem solve issues you may encounter.**
 
 
 ---

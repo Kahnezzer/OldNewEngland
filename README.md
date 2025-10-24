@@ -16,7 +16,7 @@ Old New England is a modlist built for the players, not the creator. With over 1
 - **Game:** Fresh install of Fallout 4 with DLC (Do not install the HD Texture pack)
 - **Hardware:** Quad-core CPU, 8GB+ GPU, 16GB RAM minimum
 - **Software:** [Visual C++ Redistributable Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one)
-- **Storage:** 270GB free space on SSD (install + downloads). After install, the downloads folder can be deleted, reducing footprint to 160GB.
+- **Storage:** 280GB free space on SSD (install + downloads). After install, the downloads folder can be deleted, reducing footprint to 170GB.
 - **Accounts:** Nexus Mods (premium strongly recommended for automated download)  
 
 ---
@@ -39,7 +39,7 @@ Old New England is a modlist built for the players, not the creator. With over 1
 2. Pick you Skills and Traits. I reccomend choosing custom instead of deafult, it allows you more control over leveling and starting stats.
 3. Head towards the vault exit while things load. After riding elevator up pic your Gun Fore Hire settings and let the quests finish loading.
 4. Open mod configurtaion menu and in **MCM Settings Manager** load the **Old New England Preset**.  
-5. Choose **Remove NW's Grenade Rules**. 
+5. Choose **Remove NW's Grenade Rules** when the prompt pops up.
 6. Adjust personal settings as needed.
 7. Save game and then load save to finalize changes.  
 8. Play.  

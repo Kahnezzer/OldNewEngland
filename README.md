@@ -2,7 +2,7 @@
 
 Old New England is a modlist built for the players, not the creator. With over 1,000 mods, it’s grounded in organization and stability. It’s Fallout 4 with smarter systems, better encounters, and a Commonwealth that actually feels lived in. Every area has been improved and expanded without unnecessary bloat.
 
-*Author: Kahnezzer* *[Ko-Fi](https://ko-fi.com/kahnezzer)*
+*Author: Kahnezzer* - *[Ko-Fi](https://ko-fi.com/kahnezzer)*
 
 ---
 

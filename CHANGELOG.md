@@ -1,3 +1,115 @@
+## Old New England 0.9.6 10/25/25  Not Save Safe
+
+🛠️-𝙁𝙞𝙭𝙚𝙙-🛠️
+Crashing and Stability
+So many tweaks and adjustments I lost track
+Locked FPS at 60 with optional patch for 120
+Adjusted Icons and sorting tags
+Replaced the bowie knife in the vault with a combat knife
+Textures not loading right on cars
+Made nights darker
+Adjusted container loot to have a 75% chance to spawn
+You now need to be 50% closer for a map marker to show up on the compass
+
+🔄-𝙐𝙥𝙙𝙖𝙩𝙚𝙙-🔄
+S7 Skill System - A Skyrim Style Leveling Overhaul
+LevelUpMenuEx - Extended
+Colors To The Clutter - BOS
+Switched Mutant Menagerie from Base to Full version
+
+✅-𝘼𝙙𝙙𝙚𝙙-✅
+Sunken Garage - Glowing Sea Settlement
+Ham Radio Recruitment
+The Last Instance (A Ship Settlement)
+Casual Outfit Collection
+Brotherhood of Steel Eyebots
+Workshop Decorations Pack
+Wall Oil Lamps
+Buildable Burning Campfires and Fireplaces V3.0
+TU3SD4Y'S Fallout 76 Survival Tent (Buildable Item with Quest)
+TU3SD4Y'S Buildable Fallout 76 Watchtowers
+Advanced Bubble Turret Set
+Perchik71 - In Game MOD Explorer (MCM)
+SKK Combat Stalkers
+Mosin Nagant - Sniper Rifle
+Metro Replacer
+Sparky
+World Loot Reduction
+Immersive Map Marker Range
+Subway Runner Map (Unofficial)
+Subway Runner Map Discovery
+The Rooftops - For Jumpers and Snipers
+CROSS_Chosen_Of_Atom
+CROSS_BrotherhoodRecon
+TG'z Fens Interiors
+TG'z Cambridge Interiors
+Diamond City Exterior Town
+Pack Bot Models (for Carry-Your-Stuff-Robots)
+C WarCat
+Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton
+Dogmeat Helmets and Hats
+Fallout New Vegas - ED-E Companion
+Classic Frag Grenades and Mines
+New Vegas Grenade Pack - Old World Addon Project
+Fusion Cell Grenades
+M84 Flashbang - Advanced
+Dynamite - Thrown Explosive
+Different Colored Grenade Arc
+Transfer Settlements - Shareable Settlement Blueprints
+HK G3 Battle Rifle Expansion and R91 
+ProjectCapital Wasteland Double Barrel Shotgun
+Walking Cane Sword modification addon
+Fire Axe
+West Tek Tactical Optics - Night Vision Thermal Vision Goggles and More
+Rohgen's Wasteland Sword
+USAF Satellite Station Olivia How It Should Be
+Rem92 Lever Action Shotgun
+Immersive and Extended Lexington
+Immersive and Extended Nahant
+MTs-255 - Revolver Shotgun Empowered
+STREETSWEEPER
+Caravan Shotgun
+BirdSword For Mutants
+9mm Pistol (Browning Hi-Power) Redux
+Immersive Hub City Auto Wreckers
+IMI Uzi - Smg
+Boston Airport Home Plate and the Mechanists Lair are Settlements
+Red Army PPSh-41 Reborn
+Immersive Saugus Ironworks
+Immersive Covenant Compound
+Railroad Redone (HQ revison)
+Vertibird Sword
+No Interior Fog
+CROSS Crit Gore-verhaul
+Gold Bars - FNV Dead Money Inspired Replacer
+F4NV Mysterious Magnum and .44 Magnum Revolver Replacer
+HKG3 - Combat Rifle Replacer
+Oppressor's Workbench (4K) - Vol 01 - Replacer
+Rugged Companions of Fallout 4
+Alexanders Vault-Tec Magazine - Retexture
+Dpillari's Institute Suite
+AlexScorpions Male Body Retexture
+CBBE Reduced - Vanilla Underwear
+HK G3 Family
+Nuka Diner In Concord
+Casual Outfit Collection
+The Last Instance (A Ship Settlement)
+Ham Radio Recruitment
+Riverside Cabin - Player Settlement
+Sunken Garage - Glowing Sea Settlement
+Jesters Better Destroyed Vehicles
+
+⛔-𝙍𝙚𝙢𝙤𝙫𝙚𝙙-⛔
+Most of the mods that added Settlements
+A few weapon packs
+Institute Overhaul
+Diamond City Interiors Expanded
+Concord Hideout
+Attatchment Pack because the vanilla weapons are not my focus
+Leather Underwear
+
+---
+
 ## Old New England 0.9.4 10/17/25  Not Save Safe
 
 🛠️-𝙁𝙞𝙭𝙚𝙙-🛠️

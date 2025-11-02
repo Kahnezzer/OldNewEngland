@@ -18,7 +18,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Kahnezzer/Images/main/WJOldNewEngland.webp",
+      "image": "https://raw.githubusercontent.com/Kahnezzer/Images/refs/heads/main/WJOldNewEngland.webp",
       "readme": "https://github.com/Kahnezzer/OldNewEngland/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Old New England.wabbajack_74840301-8100-4059-8b82-fbc080aff0a8",
       "machineURL": "OldNewEngland",
@@ -39,4 +39,5 @@
     "dateUpdated": "2025-11-02T02:43:28.2255903Z",
     "repositoryName": ""
   }
+
 ]

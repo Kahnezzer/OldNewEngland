@@ -1,3 +1,158 @@
+## Old New England 0.9.7 11/2/25  Not Save Safe
+
+🛠️-𝙁𝙞𝙭𝙚𝙙-🛠️
+PRP Loadorder Issues
+Patched S.M.M.G for True Damage
+3rd person melee animations
+Scopes
+
+🔄-𝙐𝙥𝙙𝙖𝙩𝙚𝙙-🔄
+All Maps Updated to 4k
+CBX Small Generators
+Improved Hostile Factions
+Improved Brotherhood of Steel
+Improved America Rising 2 Enclave
+No Sneaking in Power Armor
+Godrays Performance Fix Redux
+Sidearms of the Wasteland
+Junkernaught Raiders
+Improved America Rising 2 Enclave
+Improved Brotherhood of Steel
+Improved Hostile Factions
+Accessible Bridges
+Jurttu's Interiors
+MS Fast Start - Skip Sanctuary Prologue
+Junkernaught Raiders
+
+
+✅-𝘼𝙙𝙙𝙚𝙙-✅
+2k face texture for a child
+LOST Audio Tweaks
+HFs - Diverse (BOS) Tool case - remode
+Sprint Reload
+Attatchment Pack
+Attatchment Pack Unofficial Update
+Repairable Sanctuary Bridge
+The Rebuild Collection - AIO
+The Rebuild Collection - Shared Resources
+Sanctuary Deep Clean and Remodel
+Capital Wasteland Outfit Pack Part II
+Merc Outfit Pack
+Project Mojave Outfit Pack
+Capital Wasteland Mysterious Stranger
+Mysterious Stranger Classic Theme
+F4NV 44 Attachment Pack Patch
+InstitutePowerArmor
+M150s Institute Power Armor HD Reboot
+CROSS_InstituteExpeditionarySuit
+Bastion - A Power Armor Overhaul
+Miami Misadventures - Episode 1
+Miami Misadventure Compact SMG Retexture (2k)
+Aggressive synth voice overhaul
+Diamond City More Security
+Goodneighbor Watch
+4estGimp - Raider Overhaul ONE
+Better Settlers
+Old World Radio 2
+Fallout 3 Shopping Trolley
+Handmade Energy Pistol
+Handmade Anti-Materiel Rifle (REDUX)
+Handmade Lever Action Shotgun
+Basement Living - Bunker and Basement Player Homes
+OCDecorator - Static Loot
+A Better World - 14th Armament Pack
+More Glowing Flora
+Chew 4 Glue
+Survivors Treehouse
+Remove Ironsight Blur
+Rain of Brass - Shell Casings
+Makeshift Air Dart Rifle -- A Lethal Syringer Alternative
+VG Double Barrel
+Laser and Plasma Splitter Tweaks
+Screwdriver Shivs
+Chinese Officer Dao
+Combat Knife Tanto Blade Addons
+Classic Frag Mine Remastered
+22LR Silenced Pistol
+Modern Apocalypse - Thing's MP5 (REDUX)
+Skewer Launcher
+The Varmint Revolver (Taurus Judge)
+Vault-Tec MPL
+Glock P45 - The P80 of the Apocalypse
+Shishkebab Overhaul and Gehenna
+Industrial Gauntlet
+Mechanist's Bane - Assaultron Axe and Scythe
+Select Balisong
+Institute Baton
+Pipe Carbine - Rat Runners Arsenal
+10mm Pistol debulked remesh replacer and standalone
+4estGimp - Institute Break Action Laser and Weapon System
+.45 Machine Pistol - Enfield MP-45
+Casero Rifle - English Edition
+Wasteland Shotgun
+.38 Machine Pistol (Mac-11)
+Assault Rifle Lore Friendly Overhaul
+Grease Gun SMG M3 - Redux Version
+Handmade Laser Rifle - Laser Musket Replacer
+Handmade Assault Shotgun (Raider Saiga)
+Handmade Anti-Materiel Rifle (REDUX)
+The Utility Shotgun
+Selakii's Plasma Autocannon - Revised
+Winchester Model 1873 - Lever Action Rifle
+Capital Wasteland Hunting Rifle
+AK-112 fo1 Inspired gun
+Handmade Energy Pistol
+Makeshift .32 SMG (Handmade Borz SMG)
+ScratchMade - New Combat Shotgun and Rifle textures
+Mad Minute - a Hunting Rifle tweak
+Immersive Random Main Menu
+Al's Halloween Workshop
+PBW Chinese Assault Rifle
+NPCs Use Items
+Faster Melee and Unarmed Animations
+Boston Natural Surroundings
+4estGimp - Boston Natural Surroundings Tree Trim
+Pine Trees Redone
+Proto Vault Suit
+ZP's Weapons Melee
+Biohazard Suit Redux
+Liberty Prime Armor
+Sniper Scope Overlay And Reticles Replacement
+Dynamic Night Vision Scopes
+Modern Night Vision Scopes - Off During the Day
+The 10mm Pistol (F4NV 10mm Pistol Redux)
+BA2 Archive Version Patcher
+Easy Ammo Vending Machine
+Tree house player home
+xrayys surface clouds changer
+Improved Emergency Light
+NCR OutfitVivid Fallout 
+Vivid Armor Workbench (Workstation) 2k
+Arcade Terminals
+Workshop Terminals
+
+⛔-𝙍𝙚𝙢𝙤𝙫𝙚𝙙-⛔
+IMI Uzi
+4 Gauge Shotgun
+MP5
+UMP
+Pump Action Shotgun
+Revolvers of the Wasteland
+AKs of the Wasteland
+That Gun
+Reverb and Ambience Overhaul
+Power Armor Intercom Voice
+Marine Anti-Material Rifle
+Rad Birds
+M84 Flasbang
+Transfer Settlements - Shareable Settlement Blueprints
+Another Sanctuary Bridge 2.0
+Paint that House
+West Tek Tactical Optics - Night Vision Thermal Vision Goggles 
+Kingsport Lighthouse Stays Lit
+
+---
+
 ## Old New England 0.9.6 10/25/25  Not Save Safe
 
 🛠️-𝙁𝙞𝙭𝙚𝙙-🛠️

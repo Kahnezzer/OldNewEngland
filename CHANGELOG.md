@@ -1,6 +1,6 @@
 ## Old New England 0.9.8 11/09/25  
 ---
-**Not Save Safe**
+Not Save Safe
 ---
 🛠️-𝙁𝙞𝙭𝙚𝙙- 🛠️
 - .44 Shell Casings

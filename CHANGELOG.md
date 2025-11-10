@@ -1,5 +1,7 @@
-## Old New England 0.9.8 11/09/25  Not Save Safe
-
+## Old New England 0.9.8 11/09/25  
+---
+**Not Save Safe**
+---
 🛠️-𝙁𝙞𝙭𝙚𝙙- 🛠️
 - .44 Shell Casings
 - Invisble Trash and Debris
@@ -45,7 +47,7 @@
 - Orphan's of the Commonwealth
 
 ---
-
+---
 ## Old New England 0.9.7 — 11/2/25  
 **Not Save Safe**
 

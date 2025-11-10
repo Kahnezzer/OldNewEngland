@@ -1,3 +1,51 @@
+## Old New England 0.9.8 11/09/25  Not Save Safe
+
+🛠️-𝙁𝙞𝙭𝙚𝙙- 🛠️
+- .44 Shell Casings
+- Invisble Trash and Debris
+- Face Textures
+- Patched Ultra Exterior & Interior Lighting
+- Patched ELFX
+- Patched PRP
+
+🔄-𝙐𝙥𝙙𝙖𝙩𝙚𝙙-🔄
+- Repairable Sanctuary Bridge
+- Vanilla Locations Plus
+- Simple Everyone's Best Friend
+- CBX Small Generators
+- Witchs Cat Brahmin Muthound Molerat REDUX
+
+✅-𝘼𝙙𝙙𝙚𝙙-✅
+- X-Cell
+- Fallout 4 Splash Screen Plugin
+- LAMP Replacer
+- Actually Gray Knit Cap
+- Robots as Secondary Companions
+- Starlight Drive-In Working Speakers
+- F4NV Repconn Souvenir Rocket
+- Glowsticks Redux
+- Dynamic Light Glowing Beverage Pack
+- Standalone Workbenches
+- Crafting Rearranged
+- Fallout Ladies - Heather Casdin (HiPoly) Replacer
+- Radiant UFO Crash Site
+- True Nuka Cola Bottle Caps Stashes
+- Darker Highways
+- More Vines
+- Herbal Remedies
+- HFs - Wasteland Soups - remodel
+- The Beast (Sicario Theme OST) Main Menu Music Replacer
+
+
+⛔-𝙍𝙚𝙢𝙤𝙫𝙚𝙙-⛔
+- NPC's Change Clothes
+- Trash and Rubble Pile Replacer
+- .44 Casing Retexture
+- Classic Frag Mine Remastered
+- Orphan's of the Commonwealth
+
+---
+
 ## Old New England 0.9.7 — 11/2/25  
 **Not Save Safe**
 

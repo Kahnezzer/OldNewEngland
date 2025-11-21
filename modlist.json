@@ -20,26 +20,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Kahnezzer/oldnewenglandresources/main/ONEcover.jpg",
       "readme": "https://github.com/Kahnezzer/OldNewEngland/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Old New England.wabbajack_fb02c2f9-f105-477d-9722-c5f77f31d4cc",
+      "download": "https://authored-files.wabbajack.org/Old New England.wabbajack_31024198-9cbf-4791-807a-aef1a3939970",
       "machineURL": "OldNewEngland",
       "discordURL": "https://discord.gg/nxnqZyUf55",
       "websiteURL": "https://github.com/Kahnezzer/OldNewEngland/blob/main/README.md"
     },
     "download_metadata": {
-      "Hash": "/O19QmzEmmA=",
-      "Size": 180597093,
-      "NumberOfArchives": 1261,
-      "SizeOfArchives": 166019801867,
-      "NumberOfInstalledFiles": 58223,
-      "SizeOfInstalledFiles": 187553096058,
-      "TotalSize": 353572897925
+      "Hash": "s7ZOMDdurZg=",
+      "Size": 184032774,
+      "NumberOfArchives": 1263,
+      "SizeOfArchives": 166731027473,
+      "NumberOfInstalledFiles": 138751,
+      "SizeOfInstalledFiles": 188766619296,
+      "TotalSize": 355497646769
     },
     "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-21T17:47:23.8975752Z",
+    "dateUpdated": "2025-11-21T18:16:19.2481926Z",
     "repositoryName": ""
   }
-
 ]
-
-

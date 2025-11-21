@@ -18,7 +18,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Kahnezzer/oldnewenglandresources/ONEcover.jpg",
+      "image": "https://raw.githubusercontent.com/Kahnezzer/oldnewenglandresources/main/ONEcover.jpg",
       "readme": "https://github.com/Kahnezzer/OldNewEngland/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Old New England.wabbajack_fb02c2f9-f105-477d-9722-c5f77f31d4cc",
       "machineURL": "OldNewEngland",
@@ -41,4 +41,5 @@
   }
 
 ]
+
 

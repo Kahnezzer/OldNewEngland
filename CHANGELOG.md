@@ -1,3 +1,120 @@
+ 🛠️-𝙁𝙞𝙭𝙚𝙙-🛠️
+- Fixed Various Mixing Textures
+
+ 🔄-𝙐𝙥𝙙𝙖𝙩𝙚𝙙-🔄
+- Improved Brotherhood of Steel
+- Improved Hostile Factions
+- Service Rifle Improvement Project
+- Reaper's RobCo Munitions Patches
+- Mobile Sentry Bot
+- Ragged Thunder - Minutemen Overhaul
+- CBX Small Generators
+- Utility Shotgun - Munitions
+- LIF
+
+ ✅-𝘼𝙙𝙙𝙚𝙙-✅
+- Facegen Data
+- See Through Scopes
+- Provisioner Caravan Guards
+- Vanilla Reanimation Project
+- VRP - Button Lowered Weapons Patch Project
+- Deadeye
+- DirectHit
+- Better Explosives Redux
+- Consistent Combat
+- Sighted Weapon Accuracy Fix
+- JSRS Movement Sounds - Without Gear Rattle
+- Roleplayer's Expanded Dialogue (RED)
+- Yoshubi's Audio - Diamond City
+- Mechanical VATS
+- NO SILLY SOUNDS IN BOSTON
+- TAA Flicker Fixer 
+- Wasteland Stick
+- Wasteland Stick Retexture
+- Assault Weapons Pack - A SRIP Add-On Pack
+- Minutemen Morale Pack
+- Bottle Cap XP gain sound.
+- Fallout 4 Resound Project - Guns
+- Fix Cubemaps
+- Another Cubemap
+- The Soviet Combat Rifle (Classic Fallout AK-112)
+- Al's Canopies
+- Minuteman Watchtowers
+- Where is Everyone - Minutemen in Covenant
+- The Tunnels
+- People Live In - Roadside Pines Motel
+- People Live In - Harbormaster Hotel
+- Better Notes and Tales from the Commonwealth Patch
+- Monorail To Spectacle Island
+- Cambridge Police Station Redux
+- South Boston Military Checkpoint Volume
+- NPC Footstep Overhaul
+- Pick up Ammo SFX
+- Ketaros World - Jolly Item Sounds Patch
+- Power Armor Heavy Bullet Impact Sounds
+- Better sound of casing touching on the ground
+- Satisfying M1 Garand Reload Sound
+- Horrorghouls Redone
+- Witchs Cat Brahmin Muthound Molerat REDUX
+- Adjustable VATS Speed
+- Helmet Popper
+- Randomized Wild Flora
+- No More Barnacles
+- The Fungal Commonwealth
+- Car Variety - English Translation
+- Misery Island - Isles Of New England
+- 2K Tarps and Awnings
+- Far Better Far Harbor
+- Vault 111 Exterior Plus
+- Institute Sky
+- Sanctuary Hills - Root Cellar Remade
+- FallUI Companion Carryweight Fix
+- Vault Tec Power Amour HD Redux
+- SKK Settlement Attack System
+- Immersive Andrew Station
+- Diamond City Power-Armored Security
+- The Conclave - COA Addon
+- Radical - COA Addons
+- In The Flesh
+- Amazing FollowerTweaks Plus (AFT Plus)
+- NMC's Sanctuary Bridge
+- Flies On Flesh
+- Diverse Dogs
+- Diverse Cats
+- No More Dead Dogs
+- Deadlier Deathclaws
+- Deathclaw Armory
+- Deathclaw Armory Spawns Redux
+- Unique Mythic Deathclaws
+- Glowing Deathclaw Eyes
+- AutoSave F4SE
+- SKK Dynamic Damage Manager
+- Better Crates
+- Steamer Trunks Retextured
+- SKK Fast BOS (ArcJet triggers Prydwen)
+- Frame Generation
+- CCCleaner
+
+ ⛔-𝙍𝙚𝙢𝙤𝙫𝙚𝙙-⛔
+- True Damage
+- Liberty Prime Armor
+- Tree house player home
+- AK-112 fo1 Inspired gun
+- Enclave Recon Corps Armors
+- Polaria Systems
+- CSEP Presents Commonwealth Killer - Quest Mod
+- Caves of the Commonwealth
+- Night Vison Scopes
+- ZPs Feral Sounds
+- Tales from the Commonwealth
+- Ellen
+- Loaded Bases
+- Brothers in Arms
+- Mutant Menagerie
+
+---
+---
+
 
 ## Old New England 0.9.8 11/09/25  
 **Not Save Safe**

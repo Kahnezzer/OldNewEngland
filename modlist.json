@@ -1,7 +1,7 @@
 [
   {
     "title": "Old New England",
-    "description": "Old New England is a modlist built for the players, not the creator. With over 1,000 mods, it\u2019s grounded in organization and stability. It\u2019s Fallout 4 with smarter systems, better encounters, and a world that truly feels alive. Every area has been improved and expanded, but without the unnecessary bloat. Ultimately, it\u2019s about bringing the Commonwealth to life in a way that feels fresh.",
+    "description": "Old New England is a modlist built for the players, not the creator. With over 1,000 mods, it's grounded in organization and stability. It's Fallout 4 with smarter systems, better encounters, and a world that truly feels alive. Every area has been improved and expanded, but without the unnecessary bloat. Ultimately, it\u2019s about bringing the Commonwealth to life in a way that feels fresh.",
     "author": "Kahnezzer",
     "maintainers": [
       "github/Kahnezzer"
@@ -41,4 +41,5 @@
   }
 
 ]
+
 

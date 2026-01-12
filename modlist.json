@@ -18,7 +18,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Kahnezzer/oldnewenglandresources/main/cover.jpg",
+      "image": "https://raw.githubusercontent.com/Kahnezzer/oldnewenglandresources/refs/heads/main/ONEcover.jpg",
       "readme": "https://github.com/Kahnezzer/OldNewEngland/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/ONE.wabbajack_93bdf138-3232-4c44-91c9-77c611c802ec",
       "machineURL": "OldNewEngland",
@@ -39,4 +39,5 @@
     "dateUpdated": "2026-01-08T14:28:24.1670832Z",
     "repositoryName": ""
   }
+
 ]

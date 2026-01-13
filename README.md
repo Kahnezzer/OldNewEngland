@@ -95,8 +95,6 @@ Once things settle:
 - Open **MCM (Mod Configuration Menu)**
 - Open **MCM Settings Manager**
 - Load the **Old New England preset**
-- When prompted, select:
-  - **Remove Nuka-World grenade rules**
 
 After applying settings:
 

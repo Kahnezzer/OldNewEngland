@@ -1,3 +1,22 @@
+## Old New England   1.2   1/08/26
+Not Save Safe
+
+
+ 🛠️-𝙁𝙞𝙭𝙚𝙙-🛠️
+- List can now be installed with current version of Fallout 4
+
+---
+
+## Old New England   1.1   12/05/26
+Not Save Safe
+
+
+ 🛠️-𝙁𝙞𝙭𝙚𝙙-🛠️
+- List can now be installed with current version of Fallout 4
+ 
+
+---
+
 ## Old New England   1.0   11/21/25  
 Not Save Safe
 

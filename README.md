@@ -108,10 +108,10 @@ After applying settings:
 
 After the first successful load, you may tweak:
 
+- S7 Skill Overhaul xp multipliers
 - Difficulty and survival options
 - Sound balance
-- Camera preferences
-- HUD scaling
+- HUD
 
 These are **personal preference** and safe to adjust.
 

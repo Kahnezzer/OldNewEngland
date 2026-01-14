@@ -76,7 +76,7 @@ After Wabbajack finishes:
 
 - Open the install folder
 - Run **ModOrganizer.exe**
-- **Do not enable or disable anything**
+- **Do not enable or disable anything except optional mods at the bottom**
 - Launch Fallout 4 **through Mod Organizer**
 
 ---
